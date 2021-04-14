@@ -1,0 +1,17 @@
+<svg width="480" height="139" xmlns="http://www.w3.org/2000/svg">
+ <style>.st0{fill:none}.st1{fill:#fff}.st2{font-family:Raleway; font-weight: 100;}.st6{fill:none;stroke:#000;stroke-width:3;stroke-miterlimit:10}</style>
+
+ <g>
+  <title>Layer 1</title>
+  <path d="m448.07,-1l-9.62,17.24l-8.36,14.96l-60.16,107.8l-370.93,0l0,-140l449.07,0z" id="svg_1"/>
+  <path class="st0" d="m-1,139l479.92,0l0,0.01l-479.92,0l0,-0.01z" id="svg_2"/>
+  <text class="st1 st2" font-size="57" y="53.51425" x="0.00961" id="svg_3" font-weight="normal" font-style="normal">Marko</text>
+  <text class="st1 st2" font-size="54" y="126.49937" x="0.0045" id="svg_4">Development</text>
+  <path class="st0" d="m382.44,116.43l47.65,-85.23l8.36,-14.96m-68.62,122.76l-0.01,0.01l-7.82,13.99" id="svg_5"/>
+  <path d="m438.76,15.76l-56.42,100.91c-12.52,-10.83 -20.45,-26.82 -20.45,-44.67c0,-32.58 26.42,-59 59,-59c6.23,0 12.24,0.97 17.87,2.76z" fill="#049aa2" id="svg_6"/>
+  <path d="m479.89,72c0,32.58 -26.42,59 -59,59c-14.73,0 -28.21,-5.4 -38.55,-14.33l56.42,-100.91c23.85,7.57 41.13,29.89 41.13,56.24z" id="svg_7"/>
+  <path class="st0" d="m457,-17l-8.93,16l-9.62,17.24l-8.36,14.96l-60.16,107.8l-0.01,0.01l-8.92,15.99" id="svg_8"/>
+  <text transform="rotate(-2.2366154193878174 318.4999999999992,-155.2499999999999) " stroke="null" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_10" y="-147" x="308.5" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" fill="#B6C7EA">M</text>
+  <text font-style="normal" font-weight="normal" stroke="#ffffff" transform="matrix(3.61395349391671,0,0,3.3092248956695913,-1153.9209316824756,-131.25198264078983) " xml:space="preserve" text-anchor="start" font-family="'Plaster'" font-size="24" id="svg_11" y="69" x="421.5" opacity="undefined" stroke-dasharray="null" stroke-width="0" fill="#ffffff">M</text>
+ </g>
+</svg>
